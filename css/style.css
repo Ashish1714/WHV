@@ -1,0 +1,19 @@
+.navbar {
+    background-color: burlywood;
+}
+
+.navbar ul {
+    overflow: auto;
+    padding: 0px 20px;
+    position: relative;
+    margin-left: 900px;
+}
+
+.navbar li {
+    display: flex;
+    float: left;
+    padding: 0px 15px 0px 15px;
+    font-size: 16px;
+    color: #717172;
+    text-transform: uppercase;
+}
