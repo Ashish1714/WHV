@@ -1,0 +1,164 @@
+.Donate-btn {
+    box-sizing: 300px;
+    border: 30px;
+    font-size: larger;
+}
+
+.navbar ul {
+    background-color: white;
+    display: flex;
+    float: right;
+    padding: 23px 34px;
+    padding-right: 66px;
+    font-size: larger;
+    text-decoration: none;
+}
+
+.navbar ul li {
+    display: flex;
+    padding: 10px 10px 10px;
+}
+
+.navbar ul li a {
+    text-decoration: none;
+    font-size: larger;
+    color: black;
+}
+
+.banner_taital {
+    font-size: 2.5rem;
+    padding-left: 192px;
+    color: white;
+    font-size: -webkit-xxx-large;
+    margin: 8px;
+    font-size: 75px;
+    color: #ffff;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+    line-height: 69px;
+    font-family: 'Open Sans', sans-serif;
+    padding-right: -11px;
+    padding-right: 159px;
+}
+
+.navbar ul li :hover {
+    color: burlywood;
+}
+
+.back {
+    background-color: black;
+    background-image: url("https://s172.convertio.me/p/hANSWT4iayEbIMPLqJYimA/b4a49e38676da6b61604a11a89d59515/banner-bg12.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-left: 0px;
+    padding-top: 120px;
+    padding-bottom: 75px;
+    color: whitesmoke;
+}
+
+.banner_text {
+    padding-left: 248px;
+    margin: 8px;
+    font-size: 20px;
+    color: currentcolor;
+    text-transform: none;
+    text-align: center;
+    font-weight: 100;
+    line-height: 26px;
+    font-family: 'Open Sans', sans-serif;
+    padding-right: 184px;
+}
+
+.read_bt {
+    padding-left: 665px;
+    font-size: 36px;
+}
+
+.read_bt :hover {
+    color: goldenrod;
+}
+
+.box_main {
+    width: 65%;
+    background-color: #120a78;
+    clip-path: polygon(100% 0, 100% 75%, 50% 100%, 0 75%, 0 0);
+    height: auto;
+    padding: 30px 20px 70px 20px;
+    margin-left: 96px;
+    margin-top: -8px;
+}
+
+.icon_1 {
+    width: 100%;
+    float: left;
+    text-align: center;
+}
+
+.volunteer_text {
+    width: 100%;
+    float: left;
+    font-size: 26px;
+    color: #fff;
+    font-weight: bold;
+    padding-top: 20px;
+    margin-left: 70px;
+}
+
+.lorem_text {
+    width: 70%;
+    margin: 0 auto;
+    font-size: 16px;
+    color: #fff;
+    text-align: center;
+}
+
+.join_bt {
+    width: 170px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.join_bt a {
+    width: 100%;
+    font-size: 16px;
+    color: #ffffff;
+    text-align: center;
+    border: 1px solid #ffffff;
+    padding: 5px 15px;
+    text-decoration: none;
+}
+
+.join_bt a:hover {
+    color: rgb(185, 137, 14);
+}
+
+.container {
+    background-color: burlywood;
+    padding-top: 31px;
+    padding-left: 119px;
+}
+
+.about_taital {
+    font-size: 6rem;
+    padding-top: 34px;
+    padding-left: 120px;
+}
+
+.about_text {
+    font-size: 1rem;
+}
+
+.readmore_bt {
+    color: var(--bs-link-color);
+    text-decoration: none;
+    padding-left: 269px;
+    padding-right: -34px;
+    margin-left: 71px;
+    font-size: 2rem;
+}
+
+.footer_row {
+    margin: auto;
+}
